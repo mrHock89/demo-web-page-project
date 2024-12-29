@@ -4,7 +4,9 @@ This is the project to create website for TOP assignment
 
 # Project 0verview:
 
-![preview](./web_site_overview.png)
+1. ![preview 1](./web_site_overview.png)
+
+2. ![Preview 2](./web_site_overview2.png)
 
 # Cradits :
 
