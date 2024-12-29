@@ -2,6 +2,10 @@
 
 This is the project to create website for TOP assignment
 
+# Project 0verview:
+
+![preview](./web_site_overview.png)
+
 # Cradits :
 
 - Img-1: https://www.tcnorth.com/wp-content/uploads/2017/03/iStock-615524918-980x653.jpg
